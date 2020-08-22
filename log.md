@@ -999,3 +999,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 1. [Max Sum without Adjacents](https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0)
 2. [Coin Change - Number of ways](https://practice.geeksforgeeks.org/problems/coin-change/0)
 3. [Coin Change - Minimum number of coins](https://practice.geeksforgeeks.org/problems/number-of-coins/0)
+
+
+### Day 90: Aug 22, 2020, Saturday
+
+**Today's Progress**: First appeared for the Publicis Sapient OT. Then gave the Brillio OT. Finally just did a single DP problem.
+
+**Thoughts**: I'm  still no good at clearing OTs. Could do only 1/2 in PS and couldn't solve the only question in Brillio. Towards the end of the day, had only been left with as much energy to practice a single DP problem.
+
+**Link(s) to work**
+1. [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
