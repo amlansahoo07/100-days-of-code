@@ -1009,3 +1009,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0)
+
+
+### Day 91: Aug 23, 2020, Sunday
+
+**Today's Progress**: Practiced couple more problems on DP.
+
+**Thoughts**: So today was a pretty long day. Appeared for a technical interview. He asked about OOPs concepts. Then the coding part. Asked me about finding middle element of a Linked List, Reversing the Linked List and Finding the first non-repeating character in a string. Could tell him the approach but took way too much time coding the simple problems. He said my logic was good but I need more practicing. Later realized that people had got some really tough coding questions in there PI. So either he was simply not interested in selecting me(I've got an EC background), so he gave easy questions or me taking too much time coding the problems really screwed me. Final verdict. Rejected. Practiced some DP problems then and I really don't understand the DP approach. Piles  of frustration. Watching UCL final now. Football's made all the worry go away <3
+
+**Link(s) to work**
+1. [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)
+2. [Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
