@@ -1020,3 +1020,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1)
 2. [Egg Dropping Puzzle](https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0)
+
+
+### Day 92: Aug 24, 2020, Monday
+
+**Today's Progress**: Practiced couple more problems on DP. Finished with the DP track for now.
+
+**Thoughts**: Today was again a busy day. Out of nowhere I got called for a second round of Technical Interview with Publicis Sapient. This time I was grilled hard with Core cS subjects like DBMS, OOPs, Networks, etc. I felt I performed rather poorly. But still got a call for HR round tomorrow. Let's see. I would be devastated for the fact that I couldn't get into the same companies with my friends in such an oppurtunity rather than the fact that I get rejected. Too nervous. Let's see. For coding. Just copy pasted two programs of DP. Could understand the solution approach, but I need to code more DP problems.
+
+**Link(s) to work**
+1. [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
+2. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
