@@ -1031,3 +1031,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0)
 2. [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem/0)
+
+
+### Day 93: Aug 25, 2020, Tuesday
+
+**Today's Progress**: Started learning about Trie data structure. Implemented Insertion, Search and Delete.
+
+**Thoughts**: It was a bit tricky to undedrstand trie structure but learnt how fun it was. This DS is used in implementation of auto predicting text.
+
+**Link(s) to work**
+1. [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
+2. [Trie | (Delete)](https://practice.geeksforgeeks.org/problems/trie-delete/1)
