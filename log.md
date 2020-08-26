@@ -1042,3 +1042,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0)
 2. [Trie | (Delete)](https://practice.geeksforgeeks.org/problems/trie-delete/1)
+
+
+### Day 94: Aug 26, 2020, Wednesday
+
+**Today's Progress**: Practiced couple of questions on Trie. With that I've almost finished my PPC Track.
+
+**Thoughts**: I feel absolutely devasted for the past 3-4 days regarding the interview. Never really thought it'll affect me and my mind so much. I don't understand why things always work in a way I never desire for which indirectly hampers my self confidence and morale. I'm not sure how longer I can be optimistic. For the past few days I've been simply copy pasting codes. It's all because I've no energy left from the exhaustion.
+
+**Link(s) to work**
+1. [Unique rows in boolean matrix](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
+2. [CamelCase Pattern Matching](https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching/0#:~:text=CamelCase%20is%20the%20practice%20of,the%20number%20of%20test%20cases.)
