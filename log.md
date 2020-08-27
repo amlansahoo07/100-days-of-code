@@ -1053,3 +1053,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Unique rows in boolean matrix](https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
 2. [CamelCase Pattern Matching](https://practice.geeksforgeeks.org/problems/camelcase-pattern-matching/0#:~:text=CamelCase%20is%20the%20practice%20of,the%20number%20of%20test%20cases.)
+
+
+### Day 95: Aug 27, 2020, Thursday
+
+**Today's Progress**: Practiced one question on Dynamic Programming - Ugly numbers.
+
+**Thoughts**: I got the job as SDE at the company I interviewed for :). Just yesterday I finished with the placement preparation track and got a job selection today. 100DOC really changed my life. Also decided to practice more of DP and give ample amount of time to understand the intuitions behind it. Also thinking of doing a mini data structure project.
+
+**Link(s) to work**
+1. [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
