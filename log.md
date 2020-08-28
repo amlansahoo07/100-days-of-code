@@ -1063,3 +1063,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Ugly Numbers](https://practice.geeksforgeeks.org/problems/ugly-numbers/0)
+
+
+### Day 96: Aug 28, 2020, Friday
+
+**Today's Progress**: Practiced couple of questions on DP.
+
+**Thoughts**: I think getting the job has put my mind into a very relaxed state which I shouldn't be in. Have done lots of recreational activities for the past two days. Somehow I managed to code today. Today's questions were understandable.
+
+**Link(s) to work**
+1. [Bell Numbers (Number of ways to Partition a Set)](https://practice.geeksforgeeks.org/problems/bell-numbers/0)
+2. [Binomial Coefficient nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
