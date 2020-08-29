@@ -1074,3 +1074,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Bell Numbers (Number of ways to Partition a Set)](https://practice.geeksforgeeks.org/problems/bell-numbers/0)
 2. [Binomial Coefficient nCr](https://practice.geeksforgeeks.org/problems/ncr/0)
+
+
+### Day 97: Aug 29, 2020, Saturday
+
+**Today's Progress**: Practiced couple of questions on DP. Yet again.
+
+**Thoughts**: I'm really looking forward to end this chapter of my 100DOC journey. The objective has been fulfilled. I'll still try improving my algorithms.
+
+**Link(s) to work**
+1. [Ways To Tile A Floor](https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor/0)
+2. [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
