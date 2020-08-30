@@ -1085,3 +1085,14 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Ways To Tile A Floor](https://practice.geeksforgeeks.org/problems/ways-to-tile-a-floor/0)
 2. [Gold Mine Problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)
+
+
+### Day 98: Aug 30, 2020, Sunday
+
+**Today's Progress**: Installed Qt for developing a calculator. Attempted couple of maths based coding problems.
+
+**Thoughts**: Since Qt is a C++ based GUI library I'll be including it in my daily progress. I've been given a task to design a calculator. All of my time today went into setting up the Qt environment. Did some coding questions for fun.
+
+**Link(s) to work**
+1. [Modular multiplicative inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse/0)
+2. [Exactly 3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors/0)
