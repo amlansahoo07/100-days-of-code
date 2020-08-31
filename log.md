@@ -1096,3 +1096,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 **Link(s) to work**
 1. [Modular multiplicative inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse/0)
 2. [Exactly 3 Divisors](https://practice.geeksforgeeks.org/problems/3-divisors/0)
+
+
+### Day 99: Aug 31, 2020, Monday
+
+**Today's Progress**: Developed a simple calculator in Qt. Does simple maths and is blatantly naive in interface and implementation. Followed a [YouTube Tutorial](https://www.youtube.com/watch?v=txGRU7OrTZo)
+
+**Thoughts**: It was fun doing it. But haven't got the desired results. Will be improving upon it tomorrow.
+
+**Link(s) to work**
+1. [Simple Calculator using Qt](https://github.com/amlansahoo07/Qt-Calculator)
