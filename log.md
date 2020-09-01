@@ -1106,3 +1106,13 @@ I also tried out a worksheet on methods and function in Python from Jose Portill
 
 **Link(s) to work**
 1. [Simple Calculator using Qt](https://github.com/amlansahoo07/Qt-Calculator)
+
+
+### Day 100: Sep 1, 2020, Tuesday
+
+**Today's Progress**: Completed the desired Calculator widget in Qt.
+
+**Thoughts**: I had a hard time figuring out how to convert an expression to postfix in Qt since I am not familiar with the syntax yet. So I decided to follow a Github repo and build an expression evaluator using external Maths library Lepton. Link to the Github repo I followed [here](https://github.com/mdminhazulhaque/SimpleScientificCalculator). Also I'm overjoyed to complete the 100 Days of Code challenge. Will be back for another round after a short break.
+
+**Link(s) to work**
+1. [Scientific and Expression evaluation Calculator using Qt](https://github.com/amlansahoo07/Qt-Calculator)
