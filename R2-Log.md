@@ -17,3 +17,11 @@
 
 **Link(s) to work:** 
 1. [Full Subractor and 4x1 MUX - Verilog](https://github.com/amlansahoo07/Verilog-FullSubtractor_and_4x1MUX)
+
+### Day 3: Sep 9, 2020, Wednesday
+
+**Today's Progress**: Learnt about String manipulation and Functions in Python 
+
+**Thoughts**: Covered those topics in-depth from Analytics Vidhya
+
+**Link(s) to work:** 
