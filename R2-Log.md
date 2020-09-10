@@ -25,3 +25,12 @@
 **Thoughts**: Covered those topics in-depth from Analytics Vidhya
 
 **Link(s) to work:** 
+
+
+### Day 4: Sep 10, 2020, Thursday
+
+**Today's Progress**: Learnt about Modules, Packages and Standard Libraries in Python. Also started reading about the important Python libraries for Data Science.
+
+**Thoughts**: Continued the course from where I left yesterday.
+
+**Link(s) to work:** 
