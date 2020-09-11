@@ -34,3 +34,12 @@
 **Thoughts**: Continued the course from where I left yesterday.
 
 **Link(s) to work:** 
+
+
+### Day 5: Sep 11, 2020, Friday
+
+**Today's Progress**: Learnt about Reading different types of files in Python using Pandas. Solved an assignment related to the same.
+
+**Thoughts**: Continued the course from where I left yesterday.
+
+**Link(s) to work:** 
