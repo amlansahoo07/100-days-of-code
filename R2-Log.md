@@ -43,3 +43,12 @@
 **Thoughts**: Continued the course from where I left yesterday.
 
 **Link(s) to work:** 
+
+
+### Day 6: Sep 12, 2020, Saturday
+
+**Today's Progress**: Learnt about Preprocessing, Subsetting and Modifying Pandas Dataframes.
+
+**Thoughts**: Continued the course from where I left yesterday. Getting very frustrated now due to my laziness and lack of devotion for this round of challenge. Need to up my game and code more.
+
+**Link(s) to work:** 
