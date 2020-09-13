@@ -52,3 +52,12 @@
 **Thoughts**: Continued the course from where I left yesterday. Getting very frustrated now due to my laziness and lack of devotion for this round of challenge. Need to up my game and code more.
 
 **Link(s) to work:** 
+
+
+### Day 7: Sep 13, 2020, Sunday
+
+**Today's Progress**: Learnt about Sorting and Aggregating data in Pandas. Did two assignments related to this and what I learnt the previous day.
+
+**Thoughts**: Today I actually felt like coding for real. It was nice but tiring.
+
+**Link(s) to work:** 
