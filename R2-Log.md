@@ -61,3 +61,12 @@
 **Thoughts**: Today I actually felt like coding for real. It was nice but tiring.
 
 **Link(s) to work:** 
+
+
+### Day 8: Sep 14, 2020, Monday
+
+**Today's Progress**: Learnt about Visualizing Patterns and Trends in data using Matplotlib and Seaborn libraries. Solved an assignment related to the same.
+
+**Thoughts**: I feel like actually putting in efforts balancing between tutorials and assignments. Need to maintain this flow.
+
+**Link(s) to work:** 
