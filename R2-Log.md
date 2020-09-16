@@ -70,3 +70,22 @@
 **Thoughts**: I feel like actually putting in efforts balancing between tutorials and assignments. Need to maintain this flow.
 
 **Link(s) to work:** 
+
+
+### Day 9: Sep 15, 2020, Tuesday
+
+**Today's Progress**: I had to see some C++ programming concepts and pseudo codes to solve a question set.
+
+**Thoughts**: Had to help a friend, so my time went away doing the DSA and pseudo code questions. Felt like a wasted day cause it was very random. Would avoid such things in future.
+
+**Link(s) to work:** 
+
+
+### Day 10: Sep 16, 2020, Wednesday
+
+**Today's Progress**: Completed a guided project from Coursera for performing EDA on FIFA 20 dataset and building a small player recommender system from the same.
+
+**Thoughts**: I am literally very delighted to come across and complete the project. It wasn't much but it was honest work. Had really great time performing the EDA thanks to Coursera.
+
+**Link(s) to work:** 
+[Course Certificate](https://www.coursera.org/account/accomplishments/certificate/6UZBDCRQWGKH)
