@@ -89,3 +89,12 @@
 
 **Link(s) to work:** 
 [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/6UZBDCRQWGKH)
+
+
+### Day 11: Sep 17, 2020, Thursday
+
+**Today's Progress**: Started learning about Object Detection starting from the simplest methods.
+
+**Thoughts**: Doing the Coursera course on CNN. Didn't code, but making written notes of whatever I'm learning.
+
+**Link(s) to work:** 
