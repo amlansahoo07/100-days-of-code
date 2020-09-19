@@ -98,3 +98,15 @@
 **Thoughts**: Doing the Coursera course on CNN. Didn't code, but making written notes of whatever I'm learning.
 
 **Link(s) to work:** 
+
+
+### BREAKDAY: Sep 18, 2020, Friday
+
+
+### Day 12: Sep 19, 2020, Saturday
+
+**Today's Progress**: Learnt about YOLO object detection algorithm and RCNN.
+
+**Thoughts**: Doing the Coursera course on CNN. Near completion of 3rd week.
+
+**Link(s) to work:** 
