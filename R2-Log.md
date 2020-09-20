@@ -110,3 +110,12 @@
 **Thoughts**: Doing the Coursera course on CNN. Near completion of 3rd week.
 
 **Link(s) to work:** 
+
+
+### Day 13: Sep 20, 2020, Sunday
+
+**Today's Progress**: Tried implementing the YOLO detection algorithm for detecting Cars.
+
+**Thoughts**: Completed the 3rd week of the CNN Coursera course.
+
+**Link(s) to work:** 
