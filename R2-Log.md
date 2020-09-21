@@ -119,3 +119,12 @@
 **Thoughts**: Completed the 3rd week of the CNN Coursera course.
 
 **Link(s) to work:** 
+
+
+### Day 14: Sep 21, 2020, Monday
+
+**Today's Progress**: Started learning about Face recognition algo.
+
+**Thoughts**: Started with 4th week. Too slow progress and too little really making me feel shameful of my daily efforts.
+
+**Link(s) to work:** 
