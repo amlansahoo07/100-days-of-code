@@ -128,3 +128,12 @@
 **Thoughts**: Started with 4th week. Too slow progress and too little really making me feel shameful of my daily efforts.
 
 **Link(s) to work:** 
+
+
+### Day 15: Sep 22, 2020, Tuesday
+
+**Today's Progress**: Finished with the fourth week CNN lectures and quiz from Coursera.
+
+**Thoughts**: Decent efforts put in. Still not the levels I desire. Serious motivations needed.
+
+**Link(s) to work:** 
