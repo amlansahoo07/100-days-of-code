@@ -137,3 +137,12 @@
 **Thoughts**: Decent efforts put in. Still not the levels I desire. Serious motivations needed.
 
 **Link(s) to work:** 
+
+
+### Day 16: Sep 23, 2020, Wednesday
+
+**Today's Progress**: Finished with CNN course on Coursera.
+
+**Thoughts**: Nothing much.
+
+**Link(s) to work:** 
