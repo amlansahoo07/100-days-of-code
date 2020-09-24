@@ -146,3 +146,12 @@
 **Thoughts**: Nothing much.
 
 **Link(s) to work:** 
+
+
+### Day 16: Sep 23, 2020, Wednesday
+
+**Today's Progress**: Followed some ROS melodic tutorials.
+
+**Thoughts**: It was such a pain in the arse.
+
+**Link(s) to work:** 
