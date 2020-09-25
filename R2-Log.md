@@ -148,10 +148,19 @@
 **Link(s) to work:** 
 
 
-### Day 16: Sep 23, 2020, Wednesday
+### Day 17: Sep 24, 2020, Thursday
 
 **Today's Progress**: Followed some ROS melodic tutorials.
 
 **Thoughts**: It was such a pain in the arse.
+
+**Link(s) to work:** 
+
+
+### Day 18: Sep 25, 2020, Friday
+
+**Today's Progress**: Started with ML.
+
+**Thoughts**: Very little or negligible progress.
 
 **Link(s) to work:** 
