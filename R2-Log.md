@@ -164,3 +164,23 @@
 **Thoughts**: Very little or negligible progress.
 
 **Link(s) to work:** 
+
+
+
+### Day 19: Sep 26, 2020, Saturday
+
+**Today's Progress**: Implemented YOLO v3 on Colab. Also followed some ROS tutorials.
+
+**Thoughts**: Forgot to update the progress. Updating it a day late.
+
+**Link(s) to work:** 
+
+
+
+### Day 20: Sep 27, 2020, Sunday
+
+**Today's Progress**: Continued with the ROS tutorials. Did some Verilog coding. Finally started with Machine Learning course.
+
+**Thoughts**: Today was a busy day.
+
+**Link(s) to work:** 
