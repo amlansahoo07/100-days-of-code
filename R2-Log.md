@@ -166,7 +166,6 @@
 **Link(s) to work:** 
 
 
-
 ### Day 19: Sep 26, 2020, Saturday
 
 **Today's Progress**: Implemented YOLO v3 on Colab. Also followed some ROS tutorials.
@@ -176,7 +175,6 @@
 **Link(s) to work:** 
 
 
-
 ### Day 20: Sep 27, 2020, Sunday
 
 **Today's Progress**: Continued with the ROS tutorials. Did some Verilog coding. Finally started with Machine Learning course.
@@ -184,3 +182,39 @@
 **Thoughts**: Today was a busy day.
 
 **Link(s) to work:** 
+
+
+### Day 21: Sep 28, 2020, Monday
+
+**Today's Progress**: Continued with the ROS tutorials.
+
+**Thoughts**: Learning ROS was quite interesting and challenging at the same time. Struggled a lot initially.
+
+**Link(s) to work:** 
+
+
+### Day 22: Sep 29, 2020, Tuesday
+
+**Today's Progress**: Tried to implement publisher and subscriber to square a number using three nodes.
+
+**Thoughts**: Struggled really hard to figure it out. Not completed by this day.
+
+**Link(s) to work:** 
+
+
+### Day 23: Sep 30, 2020, Wednesday
+
+**Today's Progress**: Didn't do much today. Implemented Circular Doubly Linked Lists as part of the programming Lab.
+
+**Thoughts**: A Day pretty much wasted.
+
+**Link(s) to work:** 
+
+
+### Day 24: Oct 1, 2020, Thursday
+
+**Today's Progress**: Completed the first task of squaring numbers. Also completed a second task of creating custom message type in ROS.
+
+**Thoughts**: Feels like actually I did a lot today. Good day.
+
+**Link(s) to work:** [Tasks](https://github.com/amlansahoo07/NITRSSG_Tasks)
