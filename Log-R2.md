@@ -2,7 +2,7 @@
 
 ### Day 1: May 10, 2021, Monday
 #### Time of Updation: 02:00 IST (11-05-21)
-
+<br/>
 **Today's Progress**: Started with learning of the basics and getting familiarized with the syntax of Java from HackerRank platform.  
 
 **Keynote**: Learnt that to input string immediately after an integer input, an extra Scanner.nextLine() is required in between to buffer out the last newline character for that line of integer.
@@ -12,11 +12,14 @@
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
 
-### Day 2: Sep 8, 2020, Tuesday
+### Day 2: May 11, 2021, Tuesday
+#### Time of Updation: 03:00 IST (12-05-21)
+<br/>
+**Today's Progress**: Continued with the Java practice problems on HackerRank. Learnt about some Java specific concepts.
 
-**Today's Progress**: Designed and Simulated Full Subtractor and 4x1 MUX in Verilog in Xilinx ISE. 
+**Keynote**: Use of static in Java. Use of Scanner.hasNext(). Java datatypes.
 
-**Thoughts**: I had hoped to finish the Verilog codes and watch some Data Science tutorials but entirety of my time got spent in the assignment. I'm glad tho that finally I understood how to work with Verilog and Xilinx.
+**Thoughts**: Need to get more concentration while coding. Panic's slowly kicking in. Have to start studying and weaving in the Java concepts together.
 
 **Link(s) to work:** 
-1. [Full Subractor and 4x1 MUX - Verilog](https://github.com/amlansahoo07/Verilog-FullSubtractor_and_4x1MUX)
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
