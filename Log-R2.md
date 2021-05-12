@@ -23,3 +23,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 3: May 12, 2021, Wednesday
+#### Time of Updation: 02:00 IST (13-05-21)
+<br/>
+**Today's Progress**: Continued with the Java practice problems on HackerRank. Learnt about some java classes for currency formatting and Date Time. Also started with Strings on Java.
+
+**Keynote**: Java Date and Time, LocalDate, Calendar, NumberFormat, Locale, substring in Java.
+
+**Thoughts**: I've started using the discussion forum where solutions are posted. Don't like it particularly but had to because the classes and concepts were very particular. And fuck Java. Already getting on my nerves. Should have had paid attention in the LIT classes.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
