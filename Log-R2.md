@@ -47,3 +47,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 5: May 14, 2021, Friday
+#### Time of Updation: 01:00 IST (15-05-21)
+
+**Today's Progress**: Practiced just one problem related to deciding if two strings are anagram. Learnt about Hashmaps in the process.
+
+**Keynote**: charAt(index), HashMap
+
+**Thoughts**: Wasted a lot of my time being distracted today. Ended up learning all about Hashmaps to implement key value pairs for detecting anagrams only to realize the code editor wouldn't allow me to import HashMap library. Therefore didn't feel like carrying on and did only one question.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
