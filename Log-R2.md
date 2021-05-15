@@ -59,3 +59,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 6: May 15, 2021, Saturday
+#### Time of Updation: 01:25 IST (16-05-21)
+
+**Today's Progress**: Practiced strings problem based on regex operations. Learnt about regex validation using Pattern.compile() and Exception handling in the process.
+
+**Keynote**: trim(), split(), regex, Pattern.compile(), try{}catch(){}
+
+**Thoughts**: Was very tired and sleepy. Yet the will to pursue the challenge helped me put in 1 hour of coding practice. That's the best part about this challenge.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
