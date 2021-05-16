@@ -71,3 +71,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 7: May 16, 2021, Sunday
+#### Time of Updation: 02:50 IST (17-05-21)
+
+**Today's Progress**: Continued with a couple more regex problems such as IP and username validation.
+
+**Keynote**: regex, regex format - ^, //d, etc.
+
+**Thoughts**: No thoughts. Need to get better.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
