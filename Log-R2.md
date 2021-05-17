@@ -83,3 +83,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 8: May 17, 2021, Monday
+#### Time of Updation: 01:00 IST (18-05-21)
+
+**Today's Progress**: Finished with String and regex based problems.
+
+**Keynote**: regex Pattern - compile() and matcher(), regex Matcher - find() and group()
+
+**Thoughts**: Regex is very hard to understand and I'm not sure I'll be able to write a regex expression without taking the help on Internet.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
