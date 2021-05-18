@@ -95,3 +95,16 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 9: May 18, 2021, Tuesday
+#### Time of Updation: 02:00 IST (19-05-21)
+
+**Today's Progress**: Cheat Day - Attempted Amazon OT
+
+**Keynote**: C++, Strings, Trees
+
+**Thoughts**: I never imagined I'd be able to solve all the ouptut questions. Were easy tho. Attempted coding questions with help of Internet. 1st one fully completed. 2nd one 2/7 test cases passed. I think my performance was decent but I know it's not enough for an Interview call-up. Neither am I fit enough for an Amazon SDE role. I think I fucked up in the reasoning part the most. But I think I'm content with my performance in the test.
+
+**Link(s) to work:** 
+1. [Number of Substrings with exactly k distinct characters](https://www.geeksforgeeks.org/count-number-of-substrings-with-exactly-k-distinct-characters/)
+2. [Subtree with Maximum Average](https://leetcode.com/discuss/interview-question/349617)
