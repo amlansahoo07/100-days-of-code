@@ -108,3 +108,15 @@
 **Link(s) to work:** 
 1. [Number of Substrings with exactly k distinct characters](https://www.geeksforgeeks.org/count-number-of-substrings-with-exactly-k-distinct-characters/)
 2. [Subtree with Maximum Average](https://leetcode.com/discuss/interview-question/349617)
+
+### Day 10: May 19, 2021, Wednesday
+#### Time of Updation: 03:25 IST (20-05-21)
+
+**Today's Progress**: Java BigNumber
+
+**Keynote**: BigDecimal, BigInteger, isProbablePrime, Arrays.sort, @override
+
+**Thoughts**: Did little for today as I got endsems. Gotta sleep.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
