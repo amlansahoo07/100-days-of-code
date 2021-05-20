@@ -120,3 +120,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 11: May 20, 2021, Thursday
+#### Time of Updation: 02:05 IST (21-05-21)
+
+**Today's Progress**: Java Arrays
+
+**Keynote**: Arrays
+
+**Thoughts**: Very very little progress. 
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
