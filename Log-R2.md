@@ -132,3 +132,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 12: May 20, 2021, Friday
+#### Time of Updation: 02:10 IST (22-05-21)
+
+**Today's Progress**: Continued with Arrays in Java
+
+**Keynote**: Arrays, Subarrays
+
+**Thoughts**: Wasted too much time. That feeling of not being able to solve simple problems comes up again.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
