@@ -133,7 +133,7 @@
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
 
-### Day 12: May 20, 2021, Friday
+### Day 12: May 21, 2021, Friday
 #### Time of Updation: 02:10 IST (22-05-21)
 
 **Today's Progress**: Continued with Arrays in Java
@@ -141,6 +141,18 @@
 **Keynote**: Arrays, Subarrays
 
 **Thoughts**: Wasted too much time. That feeling of not being able to solve simple problems comes up again.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 13: May 22, 2021, Friday
+#### Time of Updation: 01:55 IST (23-05-21)
+
+**Today's Progress**: Continued with Arrays in Java. Learnt about Java ArrayList
+
+**Keynote**: ArrayList, DFS in Array
+
+**Thoughts**: My un willingness to write a code that will fail will cost me loads. I don't even want to try coding and I feel so irritated for the fact I always look upto solutions. Also irritated that I waste my entire day and only go to code after 12. This is totally unacceptable and I won't me making a Dev career like this. I should not exist.
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
