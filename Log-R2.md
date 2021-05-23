@@ -156,3 +156,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 14: May 23, 2021, Saturday
+#### Time of Updation: 02:05 IST (24-05-21)
+
+**Today's Progress**: Practiced problems on List and Maps.
+
+**Keynote**: Interface List, HashMaps
+
+**Thoughts**: Solved them by myself
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
