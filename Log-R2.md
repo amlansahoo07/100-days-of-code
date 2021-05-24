@@ -164,7 +164,19 @@
 
 **Keynote**: Interface List, HashMaps
 
-**Thoughts**: Solved them by myself
+**Thoughts**: Solved them by myself.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 15: May 24, 2021, Saturday
+#### Time of Updation: 23:40 IST (24-05-21)
+
+**Today's Progress**: Practiced problems on Stack and Set.
+
+**Keynote**: Stack, HashSet
+
+**Thoughts**: Solved them by myself. Today actually felt like I thought and put in effort.
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
