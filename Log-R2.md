@@ -145,7 +145,7 @@
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
 
-### Day 13: May 22, 2021, Friday
+### Day 13: May 22, 2021, Saturday
 #### Time of Updation: 01:55 IST (23-05-21)
 
 **Today's Progress**: Continued with Arrays in Java. Learnt about Java ArrayList
@@ -157,7 +157,7 @@
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
 
-### Day 14: May 23, 2021, Saturday
+### Day 14: May 23, 2021, Sunday
 #### Time of Updation: 02:05 IST (24-05-21)
 
 **Today's Progress**: Practiced problems on List and Maps.
@@ -169,7 +169,7 @@
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
 
-### Day 15: May 24, 2021, Saturday
+### Day 15: May 24, 2021, Monday
 #### Time of Updation: 23:40 IST (24-05-21)
 
 **Today's Progress**: Practiced problems on Stack and Set.
@@ -177,6 +177,18 @@
 **Keynote**: Stack, HashSet
 
 **Thoughts**: Solved them by myself. Today actually felt like I thought and put in effort.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 16: May 25, 2021, Tuesday
+#### Time of Updation: 22:35 IST (25-05-21)
+
+**Today's Progress**: Java Generic method and Comparator Interface
+
+**Keynote**: Generic, Comparator
+
+**Thoughts**: I don't want to do this.
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
