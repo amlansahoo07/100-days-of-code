@@ -192,3 +192,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 17: May 26, 2021, Wednesday
+#### Time of Updation: 01:30 IST (27-05-21)
+
+**Today's Progress**: Sorting and Deque
+
+**Keynote**: Collections.sort, Comparator, Deque ArrayDeque<>()
+
+**Thoughts**: Slowly getting the grip. Concepts aren't a problem. Syntax is.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
