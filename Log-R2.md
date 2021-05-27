@@ -204,3 +204,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 18: May 27, 2021, Thursday
+#### Time of Updation: 01:25 IST (28-05-21)
+
+**Today's Progress**: Priority queue.
+
+**Keynote**: Priority queue
+
+**Thoughts**: Today was so messed up and so slow progress. Fed up.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
