@@ -228,3 +228,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 20: May 29, 2021, Saturday
+#### Time of Updation: 01:00 IST (30-05-21)
+
+**Today's Progress**: Method overriding, instanceof and Iterators in Java.
+
+**Keynote**: extends, implements, super.func(), instanceof
+
+**Thoughts**: Did a lot of simple things.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
