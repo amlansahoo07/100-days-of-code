@@ -240,3 +240,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 21: May 30, 2021, Sunday
+#### Time of Updation: 01:10 IST (31-05-21)
+
+**Today's Progress**: Arrays in C++
+
+**Keynote**: Arrays in C++
+
+**Thoughts**: Amazon PI Prep.
+
+**Link(s) to work:** 
+1. [GFG Practice - Link not accessible by all](https://practice.geeksforgeeks.org/tracks/amazon-arrays/?batchId=192)
