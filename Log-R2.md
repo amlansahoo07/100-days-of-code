@@ -254,7 +254,7 @@
 1. [GFG Practice - Link not accessible by all](https://practice.geeksforgeeks.org/tracks/amazon-arrays/?batchId=192)
 
 ### Day 22: May 31, 2021, Monday
-#### Time of Updation: 23:50 IST (01-06-21)
+#### Time of Updation: 23:50 IST (31-05-21)
 
 **Today's Progress**: Trees in C++
 
@@ -264,3 +264,15 @@
 
 **Link(s) to work:** 
 1. [GFG Practice - Link not accessible by all](https://practice.geeksforgeeks.org/tracks/amazon-arrays/?batchId=192)
+
+### Day 23: Jun 1, 2021, Tuesday
+#### Time of Updation: 23:45 IST (01-06-21)
+
+**Today's Progress**: Java Exception and Error Handling
+
+**Keynote**: try-catch, Exception, throw
+
+**Thoughts**: Back in Java track.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
