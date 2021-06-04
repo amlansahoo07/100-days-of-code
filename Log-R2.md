@@ -276,3 +276,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 24: Jun 4, 2021, Friday
+#### Time of Updation: 02:50 IST (05-06-21)
+
+**Today's Progress**: Java varargs and Reflection attributes
+
+**Keynote**: varargs, getDeclaredMethods()
+
+**Thoughts**: Couldn't code for last two days due to academic work.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
