@@ -288,3 +288,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 25: Jun 5, 2021, Saturday
+#### Time of Updation: 01:50 IST (06-06-21)
+
+**Today's Progress**: Random questions. Prime numbers check using varargs and access of private methods.
+
+**Keynote**: varargs, private, static
+
+**Thoughts**: Tired.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
