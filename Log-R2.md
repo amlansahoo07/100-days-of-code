@@ -300,3 +300,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 26: Jun 6, 2021, Sunday
+#### Time of Updation: 00:20 IST (07-06-21)
+
+**Today's Progress**: Learn about Design Patterns in Java.
+
+**Keynote**: Singleton Pattern and Factory Pattern
+
+**Thoughts**: I feel like being Ded and Tired.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
