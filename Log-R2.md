@@ -312,3 +312,15 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 27: Jun 9, 2021, Wednesday
+#### Time of Updation: 02:40 IST (10-06-21)
+
+**Today's Progress**: Learnt about Visitor Pattern and annotations in Java.
+
+**Keynote**: Visitor Pattern, Annotations
+
+**Thoughts**: Got stuck again due to thesis submission, but gonna continue regularly now. Also towards the end things are getting very shitty in HackerRank problems. They're what I'll call illegible and incomprehensible. Very poor. I'm fed up.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
