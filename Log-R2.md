@@ -324,3 +324,38 @@
 
 **Link(s) to work:** 
 1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 28: Jun 10, 2021, Thursday
+#### Time of Updation: 01:10 IST (14-06-21)
+
+**Today's Progress**: Java Covariant Return Types and Lambda expressions.
+
+**Keynote**: () -> 
+
+**Thoughts**: Got very lazy and updating very late. The question qualities have been horrific.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 29: Jun 11, 2021, Friday
+#### Time of Updation: 01:10 IST (14-06-21)
+
+**Today's Progress**: Encryption algorithms and classes in Java.
+
+**Keynote**: MessageDigest
+
+**Thoughts**: Finally over with the Hacker Rank questions. Very poor quality of questions towards the end.
+
+**Link(s) to work:** 
+1. [HackerRank Java Practice](https://www.hackerrank.com/domains/java)
+
+### Day 30: Jun 13, 2021, Sunday
+#### Time of Updation: 01:10 IST (14-06-21)
+
+**Today's Progress**: Started learning about Java Unit Tests.
+
+**Keynote**: assertTrue, assertFalse, assertException, assertAll, lambda functions, unit tests, Java unit 5
+
+**Thoughts**: Got very irregular the past week. Will be regular from now. Had to stop with tutorials due to sound issues.
+
+**Link(s) to work:** 
